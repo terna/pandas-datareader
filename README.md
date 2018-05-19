@@ -1,2 +1,2 @@
 # pandas-datareader
-exercise on pandas datareader and on mybinder.org
+exercise on pandas datareader and on mybinder.org together
